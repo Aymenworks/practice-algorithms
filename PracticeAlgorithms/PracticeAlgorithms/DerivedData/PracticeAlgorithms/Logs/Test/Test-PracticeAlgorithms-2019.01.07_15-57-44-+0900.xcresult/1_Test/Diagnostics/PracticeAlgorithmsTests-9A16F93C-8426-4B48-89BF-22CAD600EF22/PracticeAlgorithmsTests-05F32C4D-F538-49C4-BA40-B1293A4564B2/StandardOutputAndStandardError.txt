@@ -1,0 +1,40 @@
+Test Suite 'Selected tests' started at 2019-01-07 15:57:50.056
+Test Suite 'PracticeAlgorithmsTests.xctest' started at 2019-01-07 15:57:50.057
+Test Suite 'PracticeAlgorithmsTests' started at 2019-01-07 15:57:50.057
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' started.
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/PracticeAlgorithmsTests/PracticeAlgorithmsTests.swift:45: Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' measured [Time, seconds] average: 0.000, relative standard deviation: 197.815%, values: [0.000589, 0.000035, 0.000033, 0.000030, 0.000029, 0.000028, 0.000026, 0.000026, 0.000026, 0.000026], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' passed (0.769 seconds).
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' started.
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+brute force found
+/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/PracticeAlgorithmsTests/PracticeAlgorithmsTests.swift:31: Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' measured [Time, seconds] average: 0.759, relative standard deviation: 0.659%, values: [0.756556, 0.761099, 0.757294, 0.762498, 0.766174, 0.764128, 0.755710, 0.752378, 0.760240, 0.749371], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' passed (8.203 seconds).
+Test Suite 'PracticeAlgorithmsTests' passed at 2019-01-07 15:57:59.030.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 8.972 (8.973) seconds
+Test Suite 'PracticeAlgorithmsTests.xctest' passed at 2019-01-07 15:57:59.031.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 8.972 (8.974) seconds
+Test Suite 'Selected tests' passed at 2019-01-07 15:57:59.031.
+	 Executed 2 tests, with 0 failures (0 unexpected) in 8.972 (8.975) seconds
+
+
+Test session results and logs:
+	/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-57-44-+0900.xcresult
+

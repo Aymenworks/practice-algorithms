@@ -1,0 +1,27 @@
+Test Suite 'Selected tests' started at 2019-01-07 15:56:57.497
+Test Suite 'PracticeAlgorithmsTests.xctest' started at 2019-01-07 15:56:57.498
+Test Suite 'PracticeAlgorithmsTests' started at 2019-01-07 15:56:57.498
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' started.
+found
+found
+found
+found
+found
+found
+found
+found
+found
+found
+/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/PracticeAlgorithmsTests/PracticeAlgorithmsTests.swift:31: Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' measured [Time, seconds] average: 0.779, relative standard deviation: 0.892%, values: [0.772722, 0.780657, 0.769044, 0.786642, 0.773750, 0.791582, 0.783480, 0.783781, 0.771585, 0.778422], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' passed (8.569 seconds).
+Test Suite 'PracticeAlgorithmsTests' passed at 2019-01-07 15:57:06.068.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.569 (8.569) seconds
+Test Suite 'PracticeAlgorithmsTests.xctest' passed at 2019-01-07 15:57:06.068.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.569 (8.570) seconds
+Test Suite 'Selected tests' passed at 2019-01-07 15:57:06.068.
+	 Executed 1 test, with 0 failures (0 unexpected) in 8.569 (8.571) seconds
+
+
+Test session results and logs:
+	/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-56-50-+0900.xcresult
+

@@ -1,0 +1,37 @@
+15:55:52.337 Xcode[51449:3626871] Got a sim device notification for iPhone XR: {
+    notification = "availableDevices_changed";
+}
+15:55:52.338 Xcode[51449:3626871] Got a sim device notification for iPhone XR: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.338 Xcode[51449:3626871] Sim iPhone XR state changed to 2
+15:55:52.478 Xcode[51449:3626879] Got a sim device notification for iPhone XR: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.526 Xcode[51449:3626870] Got a sim device notification for iPhone XR: {
+    notification = "availableDevices_changed";
+}
+15:55:52.526 Xcode[51449:3626870] Got a sim device notification for iPhone XR: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.526 Xcode[51449:3626870] Sim iPhone XR state changed to 3
+15:55:52.526 Xcode[51449:3626870] Sim iPhone XR: Unregistering for sim device notification with token 4
+15:55:52.528 Xcode[51449:3626870] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+15:55:52.621 Xcode[51449:3626870] Sim iPhone XR has testmanagerd socket at /private/tmp/com.apple.launchd.DeVz1IguUH/com.apple.testmanagerd.unix-domain.socket
+15:55:52.625 Xcode[51449:3626870] Validating test connection socket path (/private/tmp/com.apple.launchd.DeVz1IguUH/com.apple.testmanagerd.unix-domain.socket)
+15:55:52.625 Xcode[51449:3626870] Constructing transport for test connection socket
+15:55:52.629 Xcode[51449:3626870] Connected socket 496 to testmanagerd for Sim iPhone XR
+15:55:52.719 Xcode[51449:3626880] Initiating control session with controller protocol version 29
+15:56:22.646 Xcode[51449:3628128] Got reply to control session initiation request (result:error): 29: (null)
+15:56:22.647 Xcode[51449:3628128] Completed protocol exchange, test daemon is running v29.
+15:56:22.656 Xcode[51449:3626879] Got authorization request for pid 19634
+15:56:22.656 Xcode[51449:3626880] Requesting authorization for pid 19634
+15:56:23.386 Xcode[51449:3626880] Got reply to authorization request for pid 19634 (result:error): 1: (null)

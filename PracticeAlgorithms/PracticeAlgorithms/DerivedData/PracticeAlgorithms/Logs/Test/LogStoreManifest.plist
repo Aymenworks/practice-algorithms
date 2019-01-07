@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>37210337-47F0-493C-B11E-95043FFBD707</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DBDD4B33-2CAF-4D6D-B727-A66E1EBB0ABF</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-PracticeAlgorithms-2019.01.07_15-57-18-+0900.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537038.69564295</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>37210337-47F0-493C-B11E-95043FFBD707</string>
+		</dict>
+		<key>656BE074-6E68-4E35-BC12-F5675E03ABA4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>11CFDF18-3B1F-4B92-BD7C-548459FC5049</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-PracticeAlgorithms-2019.01.07_15-56-50-+0900.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537010.14840698</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>656BE074-6E68-4E35-BC12-F5675E03ABA4</string>
+		</dict>
+		<key>7BDD0C2E-FD41-4FB4-B8EA-F067402DE1FD</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6B5CC27B-BFA9-46D7-915E-2CA6EB108B9C</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-PracticeAlgorithms-2019.01.07_15-55-45-+0900.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568536945.69299603</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>7BDD0C2E-FD41-4FB4-B8EA-F067402DE1FD</string>
+		</dict>
+		<key>EBE192B6-8323-452E-94C4-2B89DD368C71</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>23C00234-D4E4-4FAB-9F0C-ECA0EE4327DD</string>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.unit.cocoaUnitTest</string>
+			<key>fileName</key>
+			<string>Test-PracticeAlgorithms-2019.01.07_15-57-44-+0900.xcresult</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537064.45666897</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Test PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>EBE192B6-8323-452E-94C4-2B89DD368C71</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

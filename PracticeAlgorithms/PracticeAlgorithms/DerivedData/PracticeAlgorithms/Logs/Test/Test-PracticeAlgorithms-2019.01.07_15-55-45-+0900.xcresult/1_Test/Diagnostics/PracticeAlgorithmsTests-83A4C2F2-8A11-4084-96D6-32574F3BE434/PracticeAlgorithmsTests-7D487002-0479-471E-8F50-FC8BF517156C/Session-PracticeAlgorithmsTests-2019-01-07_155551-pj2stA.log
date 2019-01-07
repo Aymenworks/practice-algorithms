@@ -1,0 +1,1672 @@
+15:55:51.889 Xcode[51449:1509146] Beginning test session PracticeAlgorithmsTests-D081262F-CE99-4811-B787-30FE59B55A93 at 2019-01-07 15:55:51.887 with Xcode 10A254a on target <DVTiPhoneSimulator: 0x7ffa04494880> {
+		SimDevice: iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Shutdown)
+} (12.0 (16A366))
+15:55:51.889 Xcode[51449:1509146] Launching with Xcode.DebuggerFoundation.Launcher.LLDB
+15:55:51.897 Xcode[51449:1509146] Test standard output and standard error is at /Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-55-45-+0900.xcresult/1_Test/Diagnostics/PracticeAlgorithmsTests-83A4C2F2-8A11-4084-96D6-32574F3BE434/PracticeAlgorithmsTests-7D487002-0479-471E-8F50-FC8BF517156C/StandardOutputAndStandardError.txt
+15:55:52.155 Xcode[51449:1509146] Launch session started.
+15:55:52.321 Xcode[51449:1509146] Setting up test runner session
+15:55:52.338 Xcode[51449:3626880] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.337 Xcode[51449:3625978] Got a sim device notification for iPhone XR: {
+    notification = "availableDevices_changed";
+}
+15:55:52.338 Xcode[51449:3625978] Got a sim device notification for iPhone XR: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.338 Xcode[51449:3625978] Sim iPhone XR state changed to 2
+15:55:52.368 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+15:55:52.369 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.369 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.369 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.369 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.370 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.371 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.372 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    "new_state" = 2;
+    notification = "device_state";
+    "prev_state" = 1;
+}
+15:55:52.478 Xcode[51449:3625982] Got a sim device notification for iPhone XR: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.479 Xcode[51449:3626881] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booting)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.528 Xcode[51449:3625982] Got a sim device notification for iPhone XR: {
+    notification = "availableDevices_changed";
+}
+15:55:52.528 Xcode[51449:3625982] Got a sim device notification for iPhone XR: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.529 Xcode[51449:3625978] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.530 Xcode[51449:3625982] Sim iPhone XR state changed to 3
+15:55:52.530 Xcode[51449:3625982] Sim iPhone XR: Unregistering for sim device notification with token 6
+15:55:52.530 Xcode[51449:3625982] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+15:55:52.601 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.601 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.601 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.601 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.602 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.603 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.604 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:52.605 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    notification = "availableDevices_changed";
+}
+15:55:52.605 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.607 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.608 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.609 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.610 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    "new_state" = 3;
+    notification = "device_state";
+    "prev_state" = 2;
+}
+15:55:52.629 Xcode[51449:3625982] Sim iPhone XR has testmanagerd socket at /private/tmp/com.apple.launchd.DeVz1IguUH/com.apple.testmanagerd.unix-domain.socket
+15:55:52.630 Xcode[51449:3625982] Validating test connection socket path (/private/tmp/com.apple.launchd.DeVz1IguUH/com.apple.testmanagerd.unix-domain.socket)
+15:55:52.630 Xcode[51449:3625982] Constructing transport for test connection socket
+15:55:52.630 Xcode[51449:3625982] Connected socket 497 to testmanagerd for Sim iPhone XR
+15:55:52.669 Xcode[51449:3626870] Received connection for test runner session
+15:55:52.669 Xcode[51449:3626870] Listening for proxy connection request from the test bundle
+15:55:52.701 Xcode[51449:1509146] Test runner session acquired connection.
+15:55:52.701 Xcode[51449:1509146] Waiting for test process to launch.
+15:55:52.718 Xcode[51449:3626870] Initiating session with identifier: D081262F-CE99-4811-B787-30FE59B55A93
+15:55:52.990 Xcode[51449:1509146] Sending notification: NSConcreteNotification 0x7ff9e1033250 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "6B828CF2-C087-4DF4-A6CA-C9162942BF76";
+}}
+15:55:52.991 Xcode[51449:3626869] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> simulator was claimed by LaunchSessionClaim_0x7ff9f68da430
+15:55:53.026 Xcode[51449:1509146] Sending notification: NSConcreteNotification 0x7ff9d3069b30 {name = com.apple.iphonesimulator.startSession; userInfo = {
+    deviceUDID = "6B828CF2-C087-4DF4-A6CA-C9162942BF76";
+}}
+15:55:53.026 Xcode[51449:3625978] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> simulator was claimed by LaunchSessionClaim_0x7ff9f68da430
+15:55:53.026 Xcode[51449:3625978] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Registered for sim device notification, got token 8
+15:55:53.027 Xcode[51449:3626881] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Unregistering for sim device notification with token 8
+15:55:53.027 Xcode[51449:3626881] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Installing app at path: /Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator/PracticeAlgorithms.app and options: (null)
+15:55:54.096 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:3626869] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.097 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.098 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.099 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.100 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:55:54.101 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 0 (Booting), elapsed = 0.000000, isTerminal = 0, info = (null) }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:05.565 Xcode[51449:3626881] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Installed app at path: /Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator/PracticeAlgorithms.app and options: (null)
+15:56:05.567 Xcode[51449:3626881] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Registered for sim device notification, got token 10
+15:56:05.567 Xcode[51449:3626869] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Unregistering for sim device notification with token 10
+15:56:06.904 Xcode[51449:3626881] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Launching app with identifier: test.PracticeAlgorithms and options: {
+    "activate_suspended" = 0;
+    arguments =     (
+        "-NSTreatUnknownArgumentsAsOpen",
+        NO,
+        "-ApplePersistenceIgnoreState",
+        YES
+    );
+    environment =     {
+        "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+        "CA_DEBUG_TRANSACTIONS" = 0;
+        "DYLD_FRAMEWORK_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator:";
+        "DYLD_INSERT_LIBRARIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/Developer/Library/PrivateFrameworks/DTDDISupport.framework/libViewDebuggerSupport.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/lib/libXCTestBundleInject.dylib:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib/libMainThreadChecker.dylib";
+        "DYLD_LIBRARY_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+        "MTC_CRASH_ON_REPORT" = 1;
+        NSUnbufferedIO = YES;
+        "OS_ACTIVITY_DT_MODE" = YES;
+        "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+        XCInjectBundleInto = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator/PracticeAlgorithms.app/PracticeAlgorithms";
+        XCTestConfigurationFilePath = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-55-45-+0900.xcresult/1_Test/Diagnostics/PracticeAlgorithmsTests-83A4C2F2-8A11-4084-96D6-32574F3BE434/PracticeAlgorithmsTests-7D487002-0479-471E-8F50-FC8BF517156C/LaunchSessions/D081262F-CE99-4811-B787-30FE59B55A93/remote-container/tmp/PracticeAlgorithmsTests-D081262F-CE99-4811-B787-30FE59B55A93.xctestconfiguration";
+        "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+        "__XPC_DYLD_LIBRARY_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+    };
+    stderr = "/dev/ttys008";
+    stdout = "/dev/ttys008";
+    "wait_for_debugger" = 1;
+}
+15:56:08.398 Xcode[51449:3626879] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Launched app with identifier: test.PracticeAlgorithms (pid = 19634)
+15:56:08.399 Xcode[51449:3626879] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> tracking pid 19634
+15:56:08.400 Xcode[51449:3626879] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> checking to see if pid 19634 is valid: kill(pid, 0) = 0 (YES, it's still running)
+15:56:08.405 Xcode[51449:1509146] Test process runnable PID is 19634.
+15:56:09.047 Xcode[51449:1509146] 6B828CF2-C087-4DF4-A6CA-C9162942BF76: Received sim device notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.047 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.047 Xcode[51449:3626878] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.047 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.048 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.049 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.050 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.051 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.052 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.053 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.054 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.054 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.054 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:09.054 Xcode[51449:1509146] /Users/aymenrebouh/Library/Developer/CoreSimulator/Devices: Received sim device set notification: {
+    "SimDeviceNotification_NewBootStatus" = "SimDeviceBootInfo { status = 4294967295 (Finished), elapsed = 16.000000, isTerminal = 1, info = {\n    DataMigrationElapsedTime = \"0.4701789617538452\";\n    DataMigrationPhaseDescription = kDMMigrationPhaseDescriptionDidFinishWithSuccess;\n} }";
+    "SimDeviceNotification_PreviousBootStatus" = "SimDeviceBootInfo { status = 1 (WaitingOnBackboard), elapsed = 1.000000, isTerminal = 0, info = {\n} }";
+    device = "iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76, iOS 12.0, Booted)";
+    notification = "SimDeviceNotificationType_BootStatus";
+}
+15:56:11.546 Xcode[51449:1509146] Waiting for test process to check in..., will wait up to 120s
+15:56:22.646 Xcode[51449:3626871] Got reply to session initiation request with identifier D081262F-CE99-4811-B787-30FE59B55A93 (result:error): 29: (null)
+15:56:22.651 Xcode[51449:3626879] Handling proxy channel request from test runner
+15:56:22.656 Xcode[51449:3626879] Test runner is ready, running protocol 29, requires at least version 7. Control framework is running 29 and requires at least 7
+15:56:22.656 Xcode[51449:1509146] Test runner session successfully initiated.
+15:56:22.656 Xcode[51449:1509146] Whitelisting test process ID 19634
+15:56:23.388 Xcode[51449:1509146] Got whitelisting response from test daemon: Success
+15:56:23.390 Xcode[51449:1509146] Registering/updating daemon-based crash report observer for process names (
+    SpringBoard,
+    PracticeAlgorithms,
+    backboardd,
+    xctest
+)
+15:56:23.440 Xcode[51449:1509146] Telling test runner to start executing tests.
+15:56:22.629 PracticeAlgorithms[19634:3628294] Linked XCTest.framework from /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/XCTest, built with Xcode 1000(10A242), modified on Saturday, September 1, 2018 at 3:11:56 AM Japan Standard Time
+XCTest.framework bundle version: 14302.9
+15:56:22.632 PracticeAlgorithms[19634:3628294] System uptime: 30
+15:56:22.632 PracticeAlgorithms[19634:3628294] Process arguments: (
+    "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Containers/Bundle/Application/AB10C56F-C336-44F3-A341-1A51066AA721/PracticeAlgorithms.app/PracticeAlgorithms",
+    "-NSTreatUnknownArgumentsAsOpen",
+    NO,
+    "-ApplePersistenceIgnoreState",
+    YES
+)
+15:56:22.632 PracticeAlgorithms[19634:3628294] Process environment: {
+    "CA_ASSERT_MAIN_THREAD_TRANSACTIONS" = 0;
+    "CA_DEBUG_TRANSACTIONS" = 0;
+    "CFFIXED_USER_HOME" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Containers/Data/Application/CC128E70-C8D7-43B9-ACDE-939EB1C83C6F";
+    CLASSIC = 0;
+    "CUPS_SERVER" = "/private/tmp/com.apple.launchd.FF6V4leW1h/Listeners";
+    "DYLD_FALLBACK_FRAMEWORK_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/System/Library/Frameworks";
+    "DYLD_FALLBACK_LIBRARY_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/lib";
+    "DYLD_FRAMEWORK_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator:";
+    "DYLD_LIBRARY_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+    "DYLD_ROOT_PATH" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    HOME = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Containers/Data/Application/CC128E70-C8D7-43B9-ACDE-939EB1C83C6F";
+    "IOS_SIMULATOR_SYSLOG_SOCKET" = "/tmp/com.apple.CoreSimulator.SimDevice.6B828CF2-C087-4DF4-A6CA-C9162942BF76/syslogsock";
+    "IPHONE_SHARED_RESOURCES_DIRECTORY" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data";
+    "IPHONE_SIMULATOR_ROOT" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    "IPHONE_TVOUT_EXTENDED_PROPERTIES" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Library/Application Support/Simulator/extended_display.plist";
+    "MTC_CRASH_ON_REPORT" = 1;
+    NSUnbufferedIO = YES;
+    "OS_ACTIVITY_DT_MODE" = YES;
+    PATH = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/sbin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/sbin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot/usr/local/bin";
+    "RWI_LISTEN_SOCKET" = "/private/tmp/com.apple.launchd.U9MdJWfkiY/com.apple.webinspectord_sim.socket";
+    "SIMULATOR_AUDIO_DEVICES_PLIST_PATH" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/var/run/com.apple.coresimulator.audio.plist";
+    "SIMULATOR_AUDIO_SETTINGS_PATH" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/var/run/simulatoraudio/audiosettings.plist";
+    "SIMULATOR_BOOT_TIME" = 1546844152;
+    "SIMULATOR_CAPABILITIES" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/DeviceTypes/iPhone XR.simdevicetype/Contents/Resources/capabilities.plist";
+    "SIMULATOR_DEVICE_NAME" = "iPhone XR";
+    "SIMULATOR_EXTENDED_DISPLAY_PROPERTIES" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Library/Application Support/Simulator/extended_display.plist";
+    "SIMULATOR_HID_SYSTEM_MANAGER" = "/Library/Developer/PrivateFrameworks/CoreSimulator.framework/Resources/Platforms/iphoneos/Library/Frameworks/SimulatorHID.framework";
+    "SIMULATOR_HOST_HOME" = "/Users/aymenrebouh";
+    "SIMULATOR_LEGACY_ASSET_SUFFIX" = iphone;
+    "SIMULATOR_LOG_ROOT" = "/Users/aymenrebouh/Library/Logs/CoreSimulator/6B828CF2-C087-4DF4-A6CA-C9162942BF76";
+    "SIMULATOR_MAINSCREEN_HEIGHT" = 1792;
+    "SIMULATOR_MAINSCREEN_PITCH" = "326.000000";
+    "SIMULATOR_MAINSCREEN_SCALE" = "2.000000";
+    "SIMULATOR_MAINSCREEN_WIDTH" = 828;
+    "SIMULATOR_MEMORY_WARNINGS" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/var/run/memory_warning_simulation";
+    "SIMULATOR_MODEL_IDENTIFIER" = "iPhone11,8";
+    "SIMULATOR_PRODUCT_CLASS" = N84;
+    "SIMULATOR_ROOT" = "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/CoreSimulator/Profiles/Runtimes/iOS.simruntime/Contents/Resources/RuntimeRoot";
+    "SIMULATOR_RUNTIME_BUILD_VERSION" = 16A366;
+    "SIMULATOR_RUNTIME_VERSION" = "12.0";
+    "SIMULATOR_SHARED_RESOURCES_DIRECTORY" = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data";
+    "SIMULATOR_UDID" = "6B828CF2-C087-4DF4-A6CA-C9162942BF76";
+    "SIMULATOR_VERSION_INFO" = "CoreSimulator 572.2 - Device: iPhone XR - Runtime: iOS 12.0 (16A366) - DeviceType: iPhone XR";
+    "SQLITE_ENABLE_THREAD_ASSERTIONS" = 1;
+    "TESTMANAGERD_SIM_SOCK" = "/private/tmp/com.apple.launchd.DeVz1IguUH/com.apple.testmanagerd.unix-domain.socket";
+    TMPDIR = "/Users/aymenrebouh/Library/Developer/CoreSimulator/Devices/6B828CF2-C087-4DF4-A6CA-C9162942BF76/data/Containers/Data/Application/CC128E70-C8D7-43B9-ACDE-939EB1C83C6F/tmp";
+    XCInjectBundleInto = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator/PracticeAlgorithms.app/PracticeAlgorithms";
+    XCTestConfigurationFilePath = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-55-45-+0900.xcresult/1_Test/Diagnostics/PracticeAlgorithmsTests-83A4C2F2-8A11-4084-96D6-32574F3BE434/PracticeAlgorithmsTests-7D487002-0479-471E-8F50-FC8BF517156C/LaunchSessions/D081262F-CE99-4811-B787-30FE59B55A93/remote-container/tmp/PracticeAlgorithmsTests-D081262F-CE99-4811-B787-30FE59B55A93.xctestconfiguration";
+    "XPC_FLAGS" = 0x0;
+    "XPC_SERVICE_NAME" = "UIKitApplication:test.PracticeAlgorithms[0x10de][19544]";
+    "XPC_SIMULATOR_LAUNCHD_NAME" = "com.apple.CoreSimulator.SimDevice.6B828CF2-C087-4DF4-A6CA-C9162942BF76";
+    "__XCODE_BUILT_PRODUCTS_DIR_PATHS" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+    "__XPC_DYLD_FRAMEWORK_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+    "__XPC_DYLD_LIBRARY_PATH" = "/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator";
+}
+15:56:22.632 PracticeAlgorithms[19634:3628294] App Sandbox active: NO
+15:56:22.632 PracticeAlgorithms[19634:3628294] Loading test bundle at: file:///Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Build/Products/Debug-iphonesimulator/PracticeAlgorithms.app/PlugIns/PracticeAlgorithmsTests.xctest/
+15:56:22.632 PracticeAlgorithms[19634:3628294] Finished loading test bundle
+15:56:22.633 PracticeAlgorithms[19634:3628294] Readying IDE session
+15:56:22.634 PracticeAlgorithms[19634:3628294] Creating future for 'Exchange protocol versions with daemon' with timeout 15.00
+15:56:22.635 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x6000001659c0, state: XCTWaiterStateInProgress> entering wait loop for 15.00s with expectations: `Exchange protocol versions with daemon`
+15:56:22.644 PracticeAlgorithms[19634:3629045] <XCTWaiter: 0x6000001659c0, state: XCTWaiterStateSucceeded>: cancelWaiting
+15:56:22.644 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x6000001659c0, state: XCTWaiterStateSucceeded> done waiting
+15:56:22.644 PracticeAlgorithms[19634:3628294] Canceling watchdog for <XCTWaiter: 0x6000001659c0, state: XCTWaiterStateInProgress>.
+15:56:22.645 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x6000001659c0, state: XCTWaiterStateSucceeded> cleaning up `Exchange protocol versions with daemon`
+15:56:22.645 PracticeAlgorithms[19634:3628294] Got daemon protocol version 26
+15:56:22.645 PracticeAlgorithms[19634:3628294] Requesting IDE connection transport
+15:56:22.645 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000160310, state: XCTWaiterStateInProgress> entering wait loop for 60.00s with expectations: `Transport for IDE session acquired`
+15:56:22.647 PracticeAlgorithms[19634:3629045] Creating transport with received transport data
+15:56:22.648 PracticeAlgorithms[19634:3629045] <XCTWaiter: 0x600000160310, state: XCTWaiterStateSucceeded>: cancelWaiting
+15:56:22.648 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000160310, state: XCTWaiterStateSucceeded> done waiting
+15:56:22.648 PracticeAlgorithms[19634:3628294] Canceling watchdog for <XCTWaiter: 0x600000160310, state: XCTWaiterStateInProgress>.
+15:56:22.648 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000160310, state: XCTWaiterStateSucceeded> cleaning up `Transport for IDE session acquired`
+15:56:22.648 PracticeAlgorithms[19634:3628294] Creating connection with transport <DTXFileDescriptorTransport: 0x600002d7c280>
+15:56:22.648 PracticeAlgorithms[19634:3628294] Creating the proxy channel with connection <DTXConnection 0x600003f60200 : x1>
+15:56:22.649 PracticeAlgorithms[19634:3628294] Creating future for 'IDE session ready for test plan' with timeout 60.00
+15:56:22.649 PracticeAlgorithms[19634:3628294] Messaging IDE proxy - _XCT_testBundleReadyWithProtocolVersion:29 minimumVersion:7
+15:56:22.650 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000172b10, state: XCTWaiterStateInProgress> entering wait loop for 60.00s with expectations: `IDE session ready for test plan`
+15:56:22.656 PracticeAlgorithms[19634:3629045] _XCT_testBundleReadyWithProtocolVersion:minimumVersion: reply received
+15:56:23.440 PracticeAlgorithms[19634:3629045] _IDE_startExecutingTestPlanWithProtocolVersion:29
+15:56:23.441 PracticeAlgorithms[19634:3629045] <XCTWaiter: 0x600000172b10, state: XCTWaiterStateSucceeded>: cancelWaiting
+15:56:23.441 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000172b10, state: XCTWaiterStateSucceeded> done waiting
+15:56:23.441 PracticeAlgorithms[19634:3628294] Canceling watchdog for <XCTWaiter: 0x600000172b10, state: XCTWaiterStateInProgress>.
+15:56:23.441 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000172b10, state: XCTWaiterStateSucceeded> cleaning up `IDE session ready for test plan`
+15:56:23.446 Xcode[51449:1509146] Starting test plan, clearing initialization timeout timer.
+15:56:23.446 PracticeAlgorithms[19634:3628294] Entering test execution event loop
+15:56:23.446 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testBundleWillStart:]
+15:56:23.446 PracticeAlgorithms[19634:3628294] Loading test suite...
+15:56:23.447 PracticeAlgorithms[19634:3628294] Finished loading test suite, took 0.001s
+15:56:23.447 PracticeAlgorithms[19634:3628294] Running suite...
+Test Suite 'Selected tests' started at 2019-01-07 15:56:23.447
+15:56:23.447 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testSuiteWillStart:]
+15:56:23.452 Xcode[51449:1509146] _XCT_testSuite:Selected tests didStartAt:2019-01-07 06:56:23 +0000
+15:56:23.453 Xcode[51449:3626871] (LOG ARBITER) Rotating message buffer with 6 messages.
+15:56:25.007 Xcode[51449:3628371] (LOG ARBITER) Dumping buffered message data; 6 messages.
+Test Suite 'PracticeAlgorithmsTests.xctest' started at 2019-01-07 15:56:23.448
+Test Suite 'PracticeAlgorithmsTests' started at 2019-01-07 15:56:23.448
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' started.
+/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/PracticeAlgorithmsTests/PracticeAlgorithmsTests.swift:31: Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' measured [Time, seconds] average: 0.111, relative standard deviation: 2.226%, values: [0.111249, 0.109125, 0.111809, 0.107020, 0.109758, 0.113890, 0.109163, 0.115968, 0.112819, 0.111839], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+15:56:24.993 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession _testCase:didMeasureValues:forPerformanceMetricID:name:unitsOfMeasurement:baselineName:baselineAverage:maxPercentRegression:maxPercentRelativeStandardDeviation:maxRegression:maxStandardDeviation:file:line:]
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBruteForceSearch]' passed (1.548 seconds).
+Test Suite 'PracticeAlgorithmsTests' passed at 2019-01-07 15:56:24.996.
+	 Executed 1 test, with 0 failures (0 unexpected) in 1.548 (1.548) seconds
+Test Suite 'PracticeAlgorithmsTests.xctest' passed at 2019-01-07 15:56:24.997.
+	 Executed 1 test, with 0 failures (0 unexpected) in 1.548 (1.549) seconds
+Test Suite 'Selected tests' passed at 2019-01-07 15:56:24.998.
+	 Executed 1 test, with 0 failures (0 unexpected) in 1.548 (1.551) seconds
+15:56:25.007 Xcode[51449:1509146] -[XCTTestRunnerSession _XCT_testMethod:ofClass:didMeasureMetric:file:line:]_block_invoke
+15:56:24.996 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testCaseDidFinish:]
+15:56:25.007 Xcode[51449:1509146] _XCT_testCaseDidFinishForTestClass:PracticeAlgorithmsTests.PracticeAlgorithmsTests method:testBruteForceSearch withStatus:passed duration:1.547529935836792
+15:56:24.996 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testSuiteDidFinish:]
+15:56:25.007 Xcode[51449:1509146] _XCT_testSuite:PracticeAlgorithmsTests didFinishAt:2019-01-07 06:56:24 +0000 runCount:1 withFailures:0 unexpected:0 testDuration:1.547529935836792 totalDuration:1.548442959785461
+15:56:24.997 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testSuiteDidFinish:]
+15:56:25.007 Xcode[51449:1509146] _XCT_testSuite:PracticeAlgorithmsTests.xctest didFinishAt:2019-01-07 06:56:24 +0000 runCount:1 withFailures:0 unexpected:0 testDuration:1.547529935836792 totalDuration:1.549422979354858
+15:56:24.998 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testSuiteDidFinish:]
+15:56:25.008 Xcode[51449:1509146] _XCT_testSuite:Selected tests didFinishAt:2019-01-07 06:56:24 +0000 runCount:1 withFailures:0 unexpected:0 testDuration:1.547529935836792 totalDuration:1.550812005996704
+15:56:24.998 PracticeAlgorithms[19634:3628294] Finished running suite.
+15:56:24.998 PracticeAlgorithms[19634:3628294] -[XCTRunnerIDESession testBundleDidFinish:], Flushing connection to IDE...
+15:56:25.008 Xcode[51449:1509146] -[XCTTestRunnerSession _XCT_didFinishExecutingTestPlan]_block_invoke
+15:56:24.998 PracticeAlgorithms[19634:3628294] Exited test execution event loop
+15:56:24.999 PracticeAlgorithms[19634:3628294] Calling completion.
+15:56:24.999 PracticeAlgorithms[19634:3628294] <XCTWaiter: 0x600000160510, state: XCTWaiterStateInProgress> entering wait loop for 15.00s with expectations: `IDE confirmed the end of session`
+15:56:25.037 Xcode[51449:3628371] Closing socket 497 to testmanagerd for Sim iPhone XR
+15:56:25.056 Xcode[51449:1509146] Test process exited with exit code 0
+15:56:25.167 Xcode[51449:1509146] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> claim LaunchSessionClaim_0x7ff9f68da430 on simulator was relinquished
+15:56:25.168 Xcode[51449:1509146] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> claim LaunchSessionClaim_0x7ff9f68da430 on simulator was relinquished
+15:56:25.008 PracticeAlgorithms[19634:3629045] <XCTWaiter: 0x600000160510, state: XCTWaiterStateSucceeded>: cancelWaiting
+15:56:25.350 Xcode[51449:1509146] 📱<DVTiPhoneSimulator (0x7ffa04494880), iPhone XR, unknown class, 12.0 (16A366), 6B828CF2-C087-4DF4-A6CA-C9162942BF76> got death notice for pid 19634, removing from SimulatorSessionMap
+15:56:25.393 Xcode[51449:1509146] <IDETestOperationCoordinator: 0x7ff9e0bdd980> finished receiving data from testing launch session
+15:56:25.393 Xcode[51449:1509146] <IDETestOperationCoordinator: 0x7ff9e0bdd980>: _considerFlushingDelegateBlockQueue - nothing to flush
+15:56:25.393 Xcode[51449:1509146] _finishWithError:(null)

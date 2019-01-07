@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A2A694AB-383E-464E-8CB4-D6743B65F292</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>A2A694AB-383E-464E-8CB4-D6743B65F292.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>PracticeAlgorithms-dhjdawwujqmzawbpxoslyujsfeuv</string>
+			<key>timeStartedRecording</key>
+			<real>568537010.33169997</real>
+			<key>timeStoppedRecording</key>
+			<real>568537011.60281205</real>
+			<key>title</key>
+			<string>Build target PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>A2A694AB-383E-464E-8CB4-D6743B65F292</string>
+		</dict>
+		<key>FFA10E8F-7B5C-4CF2-8953-78354BD582C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>FFA10E8F-7B5C-4CF2-8953-78354BD582C0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>PracticeAlgorithmsTests-dhjdawwujqmzawbpxoslyujsfeuv</string>
+			<key>timeStartedRecording</key>
+			<real>568537064.58232296</real>
+			<key>timeStoppedRecording</key>
+			<real>568537065.83808506</real>
+			<key>title</key>
+			<string>Build target PracticeAlgorithmsTests</string>
+			<key>uniqueIdentifier</key>
+			<string>FFA10E8F-7B5C-4CF2-8953-78354BD582C0</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

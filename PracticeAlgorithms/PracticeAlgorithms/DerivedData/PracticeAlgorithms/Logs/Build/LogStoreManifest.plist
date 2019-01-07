@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>11CFDF18-3B1F-4B92-BD7C-548459FC5049</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11CFDF18-3B1F-4B92-BD7C-548459FC5049.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537010.14856601</real>
+			<key>timeStoppedRecording</key>
+			<real>568537013.20525897</real>
+			<key>title</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>11CFDF18-3B1F-4B92-BD7C-548459FC5049</string>
+		</dict>
+		<key>23C00234-D4E4-4FAB-9F0C-ECA0EE4327DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23C00234-D4E4-4FAB-9F0C-ECA0EE4327DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537064.456774</real>
+			<key>timeStoppedRecording</key>
+			<real>568537065.86110902</real>
+			<key>title</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>23C00234-D4E4-4FAB-9F0C-ECA0EE4327DD</string>
+		</dict>
+		<key>4F260212-2056-404D-A870-E7E9DE42EB65</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F260212-2056-404D-A870-E7E9DE42EB65.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537001.813272</real>
+			<key>timeStoppedRecording</key>
+			<real>568537003.91771603</real>
+			<key>title</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>4F260212-2056-404D-A870-E7E9DE42EB65</string>
+		</dict>
+		<key>6B5CC27B-BFA9-46D7-915E-2CA6EB108B9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6B5CC27B-BFA9-46D7-915E-2CA6EB108B9C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568536945.69387102</real>
+			<key>timeStoppedRecording</key>
+			<real>568536952.31537199</real>
+			<key>title</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>6B5CC27B-BFA9-46D7-915E-2CA6EB108B9C</string>
+		</dict>
+		<key>DBDD4B33-2CAF-4D6D-B727-A66E1EBB0ABF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBDD4B33-2CAF-4D6D-B727-A66E1EBB0ABF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>PracticeAlgorithms project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PracticeAlgorithms</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>timeStartedRecording</key>
+			<real>568537038.695804</real>
+			<key>timeStoppedRecording</key>
+			<real>568537038.90311003</real>
+			<key>title</key>
+			<string>Build PracticeAlgorithms</string>
+			<key>uniqueIdentifier</key>
+			<string>DBDD4B33-2CAF-4D6D-B727-A66E1EBB0ABF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

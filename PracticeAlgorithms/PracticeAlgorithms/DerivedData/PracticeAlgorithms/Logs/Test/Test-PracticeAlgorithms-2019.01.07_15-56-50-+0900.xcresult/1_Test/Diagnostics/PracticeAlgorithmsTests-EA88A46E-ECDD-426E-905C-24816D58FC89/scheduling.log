@@ -1,0 +1,5 @@
+2019-01-07 06:56:53 +0000: Received worker from worker provider: 0x7ff9ee177e80 [0: iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76)]
+2019-01-07 06:56:57 +0000: Worker 0x7ff9ee177e80 [19834: iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76)] finished bootstrapping
+2019-01-07 06:56:57 +0000: Parallelization disabled; test execution driven by the test process
+2019-01-07 06:57:06 +0000: Worker 0x7ff9ee177e80 [19834: iPhone XR (6B828CF2-C087-4DF4-A6CA-C9162942BF76)] finished successfully
+2019-01-07 06:57:06 +0000: Finished executing tests (cancelled: No)

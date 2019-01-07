@@ -1,0 +1,27 @@
+Test Suite 'Selected tests' started at 2019-01-07 15:57:22.944
+Test Suite 'PracticeAlgorithmsTests.xctest' started at 2019-01-07 15:57:22.945
+Test Suite 'PracticeAlgorithmsTests' started at 2019-01-07 15:57:22.945
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' started.
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+not found
+/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/PracticeAlgorithmsTests/PracticeAlgorithmsTests.swift:45: Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' measured [Time, seconds] average: 0.000, relative standard deviation: 176.011%, values: [0.000650, 0.000069, 0.000041, 0.000036, 0.000034, 0.000034, 0.000034, 0.000035, 0.000037, 0.000066], performanceMetricID:com.apple.XCTPerformanceMetric_WallClockTime, baselineName: "", baselineAverage: , maxPercentRegression: 10.000%, maxPercentRelativeStandardDeviation: 10.000%, maxRegression: 0.100, maxStandardDeviation: 0.100
+Test Case '-[PracticeAlgorithmsTests.PracticeAlgorithmsTests testBinarySearch]' passed (0.720 seconds).
+Test Suite 'PracticeAlgorithmsTests' passed at 2019-01-07 15:57:23.666.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.720 (0.721) seconds
+Test Suite 'PracticeAlgorithmsTests.xctest' passed at 2019-01-07 15:57:23.666.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.720 (0.722) seconds
+Test Suite 'Selected tests' passed at 2019-01-07 15:57:23.667.
+	 Executed 1 test, with 0 failures (0 unexpected) in 0.720 (0.723) seconds
+
+
+Test session results and logs:
+	/Users/aymenrebouh/Projects/practice-algorithms/PracticeAlgorithms/PracticeAlgorithms/DerivedData/PracticeAlgorithms/Logs/Test/Test-PracticeAlgorithms-2019.01.07_15-57-18-+0900.xcresult
+
