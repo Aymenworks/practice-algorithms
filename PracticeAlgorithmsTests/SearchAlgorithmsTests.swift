@@ -10,7 +10,7 @@ import XCTest
 
 class SearchAlgorithmsTests: XCTestCase {
 
-    let maxNumber = 10_000
+    let maxNumber = 10_000_000
     var orderedIntegers: [Int] = []
     var randomIntegers: [Int] = []
     
