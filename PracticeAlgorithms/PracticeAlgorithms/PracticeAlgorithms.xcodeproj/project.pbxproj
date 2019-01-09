@@ -13,6 +13,7 @@
 		5AF9516321E32B230016F58C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AF9516221E32B230016F58C /* Assets.xcassets */; };
 		5AF9516621E32B230016F58C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5AF9516421E32B230016F58C /* LaunchScreen.storyboard */; };
 		5AF9517121E32B240016F58C /* PracticeAlgorithmsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AF9517021E32B240016F58C /* PracticeAlgorithmsTests.swift */; };
+		A52F333F21E5E06800F88196 /* SearchAlgorithmsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52F333E21E5E06800F88196 /* SearchAlgorithmsTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		5AF9516C21E32B240016F58C /* PracticeAlgorithmsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeAlgorithmsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AF9517021E32B240016F58C /* PracticeAlgorithmsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeAlgorithmsTests.swift; sourceTree = "<group>"; };
 		5AF9517221E32B240016F58C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A52F333E21E5E06800F88196 /* SearchAlgorithmsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAlgorithmsTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				5AF9517021E32B240016F58C /* PracticeAlgorithmsTests.swift */,
+				A52F333E21E5E06800F88196 /* SearchAlgorithmsTests.swift */,
 				5AF9517221E32B240016F58C /* Info.plist */,
 			);
 			path = PracticeAlgorithmsTests;
@@ -207,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AF9517121E32B240016F58C /* PracticeAlgorithmsTests.swift in Sources */,
+				A52F333F21E5E06800F88196 /* SearchAlgorithmsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
